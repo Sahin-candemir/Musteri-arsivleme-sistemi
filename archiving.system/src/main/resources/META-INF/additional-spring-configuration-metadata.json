@@ -1,0 +1,122 @@
+{"properties": [
+  {
+    "name": "spring.secondDatasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.secondDatasource.url'"
+  },
+  {
+    "name": "spring.secondDatasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.secondDatasource.username'"
+  },
+  {
+    "name": "spring.secondDatasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.secondDatasource.password'"
+  },
+  {
+    "name": "spring.secondDatasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.secondDatasource.driverClassName'"
+  },
+  {
+    "name": "spring.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jdbc-url'"
+  },
+  {
+    "name": "spring.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jdbc-url'"
+  },
+  {
+    "name": "spring.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jdbc-url'"
+  },
+  {
+    "name": "spring.secondDatasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.secondDatasource.jdbc-url'"
+  },
+  {
+    "name": "spring.secondDatasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.secondDatasource.driver-class-name'"
+  },
+  {
+    "name": "db2.secondDatasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'db2.secondDatasource.url'"
+  },
+  {
+    "name": "db2.secondDatasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'db2.secondDatasource.username'"
+  },
+  {
+    "name": "db2.secondDatasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'db2.secondDatasource.password'"
+  },
+  {
+    "name": "db2.secondDatasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'db2.secondDatasource.driver-class-name'"
+  },
+  {
+    "name": "db2.secondDatasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'db2.secondDatasource.driver-class-name'"
+  },
+  {
+    "name": "db2.secondDatasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'db2.secondDatasource.driver-class-name'"
+  },
+  {
+    "name": "db2.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'db2.datasource.url'"
+  },
+  {
+    "name": "db2.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'db2.datasource.username'"
+  },
+  {
+    "name": "db2.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'db2.datasource.password'"
+  },
+  {
+    "name": "db2.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'db2.datasource.driver-class-name'"
+  },
+  {
+    "name": "db2.datasource.hikari.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'db2.datasource.hikari.jdbc-url'"
+  },
+  {
+    "name": "app.jwt-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwt-secret'"
+  },
+  {
+    "name": "app.jwt-expiration-milliseconds",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwt-expiration-milliseconds'"
+  },
+  {
+    "name": "archiving.app.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'archiving.app.secret'"
+  },
+  {
+    "name": "archiving.expires.in",
+    "type": "java.lang.String",
+    "description": "A description for 'archiving.expires.in'"
+  }
+]}
