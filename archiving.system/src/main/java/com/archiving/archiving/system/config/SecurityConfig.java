@@ -19,7 +19,7 @@ import org.springframework.web.filter.CorsFilter;
 import com.archiving.archiving.system.security.JwtAuthenticationEntryPoint;
 import com.archiving.archiving.system.security.JwtAuthenticationFilter;
 import com.archiving.archiving.system.service.UserDetailsServiceImpl;
-
+//
 @Configuration
 @EnableWebSecurity
 public class SecurityConfig extends WebSecurityConfigurerAdapter{
